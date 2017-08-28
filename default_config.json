@@ -1,0 +1,16 @@
+{
+    "data_root": "example_data",
+    "graphs_subfolder": "graphs/",
+    "forms": {
+        "json_data_subfolder": "original_forms_json",
+        "b": {
+            "flat_data_subpath": "forms_full_flat.csv",
+            "encoded_extraction_subpath": "feature_extraction_encoded.csv",
+            "extraction_subpath": "feature_extraction.csv",
+            "column_annotation_subpath": "column_annotations.json",
+            "acfu_model_subpath": "acfu_model_2nd_an_form.pkl",
+            "buckets_subpath": "buckets.json",
+            "acfu_model_features": "acfu_model_features.json"
+        }
+    }
+}
